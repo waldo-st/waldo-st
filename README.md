@@ -2,6 +2,9 @@
 💼 Profil GitHub professionnel par waldo-st
 Tu peux personnaliser chaque section !
 -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/77414585?v=4" width="200" alt="Dominique Waly DIOUF"/>
+</p>
 
 <h1 align="center">Salut, moi c'est Dominique Waly DIOUF 👋</h1>
 <p align="center">
